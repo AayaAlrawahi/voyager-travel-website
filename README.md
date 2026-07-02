@@ -27,4 +27,5 @@ Voyager is a travel website developed as a web development project. It helps use
 
 ## Author
 
-Aaya Alrawahi
+Aaya Alrawahi, Sama AlShaqsi and Reemas AlKiyumi
+
